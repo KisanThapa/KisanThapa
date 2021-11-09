@@ -7,7 +7,7 @@ I am working as a Research Assistant at UMass Boston and pursuing PhD in Compute
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kisan-thapa-860865113/)](https://www.linkedin.com/in/kisan-thapa-860865113/) 
 
-**[diogorodrigues.dev](https://kisanthapa.github.io/)**
+**[https://kisanthapa.github.io/](https://kisanthapa.github.io/)**
 
 
 <!--
