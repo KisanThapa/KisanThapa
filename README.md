@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Kisan Thapa](https://kisanthapa.github.io/)!
 
-I am working as a Research Assistant at UMass Boston and pursuing PhD in Computer Science. I´m based in Boston, MA USA.
+I am working as a Research Assistant at UMass Boston and pursuing PhD in Computer Science.
 
 
 ### Find me elsewhere 🌎
