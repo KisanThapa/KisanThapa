@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Kisan Thapa](https://kisanthapa.github.io/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I'm [Kisan Thapa](https://kisanthapa.github.io/)!
 
 I am working as a Research Assistant at UMass Boston and pursuing PhD in Computer Science.
 
